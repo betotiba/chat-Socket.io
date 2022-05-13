@@ -21,6 +21,8 @@ https://socket.io/docs/v4/
 Instalar Cors: npm install cors
 https://www.npmjs.com/package/cors
 
+Instalar Postman
+https://www.postman.com/
 
 #2 - Preparando o front-end com React
 
